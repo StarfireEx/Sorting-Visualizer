@@ -16,7 +16,7 @@ $no_algos: 6;
 
 nav
 {
-    background-color: black;
+    background-color: rgb(32, 34, 167);
     color: white;
     display: grid;
     grid-template-columns: 30% 60%;
